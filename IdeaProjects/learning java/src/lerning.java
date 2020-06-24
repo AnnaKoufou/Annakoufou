@@ -6,8 +6,8 @@ public class lerning {
 
         do {
             System.out.println(x++);
-        }while (x>5);
-
+        }while (x>3);
+// testing
     }
 }
 
